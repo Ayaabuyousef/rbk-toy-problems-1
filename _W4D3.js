@@ -31,4 +31,4 @@ var myCart = [
     price: 0.75 } 
   ];
 Calling onlyPayForHealthyThings(myCart) should return 2.85 from adding the prices of "carrots", "apples", and "avocados"
-*/
+*/h
